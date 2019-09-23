@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/n0350204/Desktop/projects/scala_playground/src/main/scala/Main.scala:71:29: value scrumMaster is not a member of Object[0m
+[0m[[0m[31merror[0m] [0m[0m  println(titan.teamMembers.scrumMaster)[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
